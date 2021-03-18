@@ -1,4 +1,5 @@
 # Microblog
+
 Blog ini berisi kumpulan singkat yang menggambarkan pikiranku saat ini, saat tulisan ini ditulis.
 
 Aplikasi iOS yang digunakan dalam mengelola blog ini adalah:
