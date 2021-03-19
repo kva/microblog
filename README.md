@@ -7,3 +7,5 @@ Aplikasi iOS yang digunakan dalam mengelola blog ini adalah:
 Sebagai .md (Markdown) teks editor, berguna untuk menulis konten.
 * Working Copy  
 Digunakan untuk mengunggah file .md ke repositori Github
+
+Hari ini kembali memulai rutinitas di kebun belakang rumah.
