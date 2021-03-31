@@ -10,3 +10,4 @@ Digunakan untuk mengunggah file .md ke repositori Github
 Sebagai file manager, untuk mencari file dari Working Copy, agar bisa diedit menggunakan Bear
 
 30 Mar 2021 5.40 PM Alhamdulillah, berhasil mengedit file di Working Copy menggunakan Bear, dengan bantuan Filza.
+m
