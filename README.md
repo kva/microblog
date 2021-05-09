@@ -12,3 +12,4 @@ Sebagai file manager, untuk mencari file dari Working Copy, agar bisa diedit men
 30 Mar 2021 5.40 PM Alhamdulillah, berhasil mengedit file di Working Copy menggunakan Bear, dengan bantuan Filza.
 m
 20 Apr 2021 2.15 AM Membuat kandang ayam
+9 Mei 2021 3.21 PM Kandang ayam belum selesai
