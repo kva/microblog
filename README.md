@@ -1,13 +1,18 @@
 ---
-modified: 2021-07-25T22:37:29+07:00
+modified: 2021-07-25T22:41:47+07:00
 ---
 
 # 僕の日記
 
+Boku no nikki  
+
 Blog ini berisi kumpulan singkat yang menggambarkan pikiranku saat ini, saat tulisan ini ditulis.
 
-Aplikasi iOS yang digunakan dalam mengelola blog ini adalah:
-* Bear
+Aplikasi yang digunakan dalam penulisan:
+* Ubuntu  
+Geany, Terminal, File Explorer  
+* iOS
+Bear, Working Copy, Filza
 Sebagai .md (Markdown) teks editor, berguna untuk menulis konten.
 * Working Copy
 Digunakan untuk mengunggah file .md ke repositori Github
