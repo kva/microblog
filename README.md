@@ -1,7 +1,3 @@
----
-modified: 2021-07-25T22:43:34+07:00
----
-
 # microblog
 
 Boku no nikki  
